@@ -2,6 +2,10 @@
   font-family: PlanetBenson;
   src: url('planetbe.ttf');
 }
+@font-face {
+  font-family: Elektra;
+  src: url('Elektra.ttf');
+}
 body {
   background-color: deeppink;
 }
