@@ -11,10 +11,12 @@ body {
 }
 p {
   color: orange;
+  font-family: Elektra;
 }
 h1, h2, h3, h4, h5, h6 {
   color: orange;
   text-align: center;
+  font-family: Elektra;
 }
 .nav {
   list-style-type: none;
