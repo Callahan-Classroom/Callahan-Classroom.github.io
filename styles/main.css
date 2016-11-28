@@ -23,7 +23,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: hotpink;
 }
 .nav li {
   float: left;
@@ -36,7 +36,7 @@ h1, h2, h3, h4, h5, h6 {
   text-decoration: none;
 }
 .nav li a:hover, .dropdown:hover .dropbtn {
-  background-color: red;
+  background-color: pink;
 }
 .nav li.dropdown {
   display: inline-block;
