@@ -7,14 +7,14 @@
   src: url('Elektra.ttf');
 }
 body {
-  background-color: deeppink;
+  background-color: red;
 }
 p {
-  color: orange;
+  color: white;
   font-family: Arial, sans-serif;
 }
 h1, h2, h3, h4, h5, h6 {
-  color: orange;
+  color: white;
   text-align: center;
   font-family: Elektra;
 }
@@ -23,21 +23,21 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: hotpink;
+  background-color: lime;
 }
 .nav li {
   float: left;
 }
 .nav li a, .dropbtn {
   display: inline-block;
-  color: red;
+  color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-family: PlanetBenson;
 }
 .nav li a:hover, .dropdown:hover .dropbtn {
-  background-color: pink;
+  background-color: #28a428;
 }
 .nav li.dropdown {
   display: inline-block;
@@ -45,12 +45,12 @@ h1, h2, h3, h4, h5, h6 {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #f9f9f9;
+  background-color: #ff4c4c;
+  color: white;
   min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  box-shadow: 0px 8px 16px 0px crimson;
 }
 .dropdown-content a {
-  color: black;
   padding: 12px 16px;
   text-decoration: none;
   display: block;
@@ -61,15 +61,15 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
 }
 .card {
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 4px 8px 0 crimson;
   transition: 0.3s;
   padding: 2px 16px;
   width: 100%;
   margin: 0;
   text-align: center;
   color: black;
-  background-color: dodgerblue;
+  background-color: green;
 }
 .card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 8px 16px 0 crimson;
 }
