@@ -64,8 +64,8 @@ h1, h2, h3, h4, h5, h6 {
   box-shadow: 0 4px 8px 0 crimson;
   transition: 0.3s;
   padding: 2px 16px;
-  width: 100%;
-  margin: 0;
+  width: 80px;
+  margin: auto;
   text-align: center;
   color: black;
   background-color: green;
