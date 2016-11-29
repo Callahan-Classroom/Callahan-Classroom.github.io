@@ -23,7 +23,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: lime;
+  background-color: green;
 }
 .nav li {
   float: left;
