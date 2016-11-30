@@ -10,10 +10,12 @@ body {
   background-color: red;
 }
 p {
+  text-shadow: 2px 2px 8px #000;
   color: white;
   font-family: Arial, sans-serif;
 }
 h1, h2, h3, h4, h5, h6 {
+  text-shadow: 2px 2px 8px #000;
   color: white;
   text-align: center;
   font-family: Elektra;
