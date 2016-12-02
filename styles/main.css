@@ -81,3 +81,19 @@ a {
   color: white;
   text-align: center;
 }
+.sidenav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: lime;
+}
+.sidenav li a {
+  display: block;
+  color: white;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+.sidenav li a:hover {
+  background-color: #28a428;
+}
