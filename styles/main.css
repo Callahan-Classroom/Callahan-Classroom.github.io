@@ -7,7 +7,7 @@
   src: url('Elektra.ttf');
 }
 body {
-  background-color: red;
+  background-color: deeppink;
 }
 p {
   text-shadow: 8px 2px 8px #000;
@@ -25,7 +25,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: lime;
+  background-color: pink;
 }
 .nav li {
   float: left;
@@ -70,7 +70,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: auto;
   text-align: center;
   color: black;
-  background-color: green;
+  background-color: pink;
   border-radius: 10px;
 }
 .card:hover {
